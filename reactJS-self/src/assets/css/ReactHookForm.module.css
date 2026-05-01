@@ -1,0 +1,11 @@
+.errorMessage {
+    color: red;
+}
+.grid{
+    display: grid;
+    gap: 20px;
+}
+.flex{
+    display: flex;
+    gap: 10px;
+}

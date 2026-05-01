@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "name": "Demo User",
+      "mobile": "9999999999",
+      "password": "demo123",
+      "isLoggedIn": false
+    },
+    {
+      "id": "1",
+      "name": "Pranav Shilu",
+      "mobile": "9033823598",
+      "password": "pranav1234",
+      "isLoggedIn": false
+    },
+    {
+      "id": "2",
+      "name": "Parth Jadeja",
+      "mobile": "9824910000",
+      "password": "parth1234",
+      "isLoggedIn": false
+    },
+    {
+      "id": "3",
+      "name": "Maya Patel",
+      "mobile": "9265620000",
+      "password": "maya1234",
+      "isLoggedIn": false
+    },
+    {
+      "id": "4",
+      "name": "Mitraj Parmar",
+      "mobile": "6354690000",
+      "password": "mitraj1234",
+      "isLoggedIn": false
+    },
+    {
+      "id": "5",
+      "name": "Yuvraj Gohil",
+      "mobile": "9726380000",
+      "password": "yuvraj1234",
+      "isLoggedIn": false
+    },
+    {
+      "id": "6",
+      "name": "Lauren Bell",
+      "mobile": "1234567890",
+      "password": "bell1234",
+      "isLoggedIn": false
+    },
+    {
+      "id": "7",
+      "name": "Bhargav Dave",
+      "mobile": "9045689754",
+      "password": "bhargav1234",
+      "isLoggedIn": false
+    }
+  ]
+}

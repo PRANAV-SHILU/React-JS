@@ -1,0 +1,17 @@
+.nestedNav {
+  display: grid;
+  gap: 20px;
+  justify-content: center;
+}
+.nestedNav h1 {
+  text-align: center;
+}
+.nestedNav nav {
+  gap: 50px;
+}
+.active {
+  color: Orange;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}

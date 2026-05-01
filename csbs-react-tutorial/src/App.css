@@ -1,0 +1,12 @@
+section {
+  padding: 5px;
+  border-bottom: 1px solid gray;
+}
+form {
+  display: grid;
+  gap: 5px;
+  width: 200px;
+}
+span {
+  color: red;
+}

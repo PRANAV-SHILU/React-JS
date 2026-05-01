@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Maya Patel",
+      "age": 34,
+      "email": "maya.patel@example.com",
+      "city": "Mumbai",
+      "phone": "+91-9876543210"
+    },
+    {
+      "id": "2",
+      "name": "BHago chor",
+      "age": "545",
+      "email": "bhago@gmail.com",
+      "city": "Mumbai",
+      "phone": "+91-9876543210"
+    },
+    {
+      "id": "3",
+      "name": "Sofia kureshi",
+      "age": "410",
+      "email": "sofia.kureshi@example.com",
+      "city": "Madrid",
+      "phone": "+34-600-123-456"
+    },
+    {
+      "id": "4",
+      "name": "yashraj cinema",
+      "age": "23",
+      "email": "daniel.kim@happy.raj",
+      "city": "Seoul",
+      "phone": "+82-10-1234-5678"
+    },
+    {
+      "id": "5",
+      "name": "Aisha ",
+      "age": 30,
+      "email": "aisha@example.com",
+      "city": "Dhaka",
+      "phone": "+880-1712-345678"
+    },
+    {
+      "id": "6",
+      "name": "Pranav shilu",
+      "age": 19,
+      "email": "pranavshilu1811@gmail.com",
+      "city": "bhavnagar",
+      "phone": "+91-9033823598"
+    },
+    {
+      "id": "7",
+      "name": "rehan khan",
+      "age": "150",
+      "email": "rehan.khan@example.com",
+      "city": "Mumbai",
+      "phone": "+91-9876543210"
+    },
+    {
+      "id": 8,
+      "name": "khimjibhai",
+      "age": "24",
+      "email": "khimjibhia@zohomail.in"
+    },
+    {
+      "id": 9,
+      "name": "kavya",
+      "age": "10",
+      "email": "kavya@mail.com"
+    }
+  ]
+}
