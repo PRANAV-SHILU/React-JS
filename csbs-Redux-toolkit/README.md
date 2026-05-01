@@ -2,7 +2,7 @@
 
 ## Overview
 
-- **Provider**: Provides data to the React DOM from the Redux store, which wraps around `main.jsx`.
+- **Provider**: Provides data to the React DOM from the Redux store, which wraps around [main.jsx](./src/main.jsx).
 - **Slice**: A combination of actions and reducers.
 - **Action**: Takes data from the application to store in the Redux store.
 - **Reducer**: Keeps data updated (e.g., add, delete operations).
@@ -17,16 +17,16 @@ This is a React application built with Vite, using Redux Toolkit for state manag
 
 ### Components
 
-- **App.jsx**: The root component that renders the application.
-- **Header.jsx**: Displays the application header.
-- **Product.jsx**: Renders individual product information.
-- **AddToCart.jsx**: Button component to add products to the cart.
-- **CartList.jsx**: Displays the list of items in the cart.
+- [App.jsx](./src/App.jsx): The root component that renders the application.
+- [Header.jsx](./src/Header.jsx): Displays the application header.
+- [Product.jsx](./src/Product.jsx): Renders individual product information.
+- [AddToCart.jsx](./src/AddToCart.jsx): Button component to add products to the cart.
+- [CartList.jsx](./src/CartList.jsx): Displays the list of items in the cart.
 
 ### Redux Setup
 
-- **store.js**: Configures the Redux store with the necessary slices.
-- **productSlice.js**: Manages product-related state and actions.
-- **slice.js**: Additional slice for cart or other state management.
+- [store.js](./src/redux/store.js): Configures the Redux store with the necessary slices.
+- [productSlice.js](./src/redux/productSlice.js): Manages product-related state and actions.
+- [slice.js](./src/redux/slice.js): Additional slice for cart or other state management.
 
 The app uses modern React practices with hooks and Redux Toolkit's simplified API for managing global state.
